@@ -3,7 +3,7 @@ import string
 import time
 from datetime import date
 
-BASE_URL = "https://day-9.lindsaywu41197.repl.co/url"
+BASE_URL = "https://database-app12.herokuapp.com/url"
 
 def random_str(n=7):
   result = ""
